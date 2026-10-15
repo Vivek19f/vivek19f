@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://vivek19f.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Portfolio-aedit--style%20v3-ffca83?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Live%20Portfolio-v3.0%20Interactive-00f0ff?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/vivekjhooria/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
