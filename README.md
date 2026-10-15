@@ -1,79 +1,84 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vivekjhooria/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <h1 align="center">Vivek Jhooria</h1>
+  <p align="center">
+    <strong>Staff Full Stack Engineer | Distributed Systems & Web Architect</strong>
+  </p>
+  <p align="center">
+    Specializing in <strong>TypeScript</strong>, <strong>Python</strong>, <strong>Node.js</strong>, and <strong>High-Scale Systems</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://vivek19f.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Portfolio-aedit--style%20v3-ffca83?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
     </a>
-    <a href="https://medium.com/@robotChat">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
-    <a href="https://codesandbox.io/dashboard/recent?workspace=ws_5ktyJCd1rYnruJzrmNTefg">
-      <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+    <a href="https://www.linkedin.com/in/vivekjhooria/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:v.jhooria@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=vivek19f&style=flat-square&color=blue" alt=""/>
+    <a href="https://medium.com/@robotChat" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-Tech%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=vivek19f&style=flat-square&color=ffca83" alt="Profile Views"/>
 </div>
-
-### Hi there, I am Vivek, a Software Engineer 👋
-
-I have 8+ years of experience in development of scalable and robust front-end systems using Angular, React, Next.Js, Redux, RxJs, Typescript, Material UI, Jest, React testing library, Angular Testing Library, Cypress, AWS, and other essential practices like web accessibility and SEO.
-
- I have also tried my hands on Node.Js, Express, DynamoDB, Mysql to deploy my personal projects end to end by building CI/CD pipeline using AWS codepipeline and other services.
-
-
-Tools/Technologies/Libraries/Practices I have played with and followed during my career till now:
-- Angular
-- React
-- Next.Js
-- Unit Testing Frameworks like React Testing Library, Jest, Angular Testing Library, and many others.
-- Github, Gitlab, Bitbucket, Gerrit, and Git.
-- Node.js
-- DynamoDB
-- Material UI, Bootstrap, and Materialize.css
-- RxJs
-- Typescript
-- Wordpress
-- HTML5, CSS, and SCSS
-- Google Lighthouse
-- Joomla
-- Sonarqube
-
-My keen interest areas are:
-1. Algorithms and Data structures
-2. Frontend systems designing and architecture.
-3. Design patterns
-4. Augmented Reality
-5. Microfrontends
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" **alt="Angular" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-</div>
-
 
 ---
 
-### 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vivekjhooria)
+### 👨‍💻 About Me
 
-Explore more:  
-https://vivek19f.github.io/
+I am a **Staff Full Stack Engineer** with over 8+ years of engineering experience architecting, building, and scaling mission-critical platforms. My technical sweet spot lies at the intersection of **distributed backend services** (Python, Node.js) and **resilient frontend architectures** (TypeScript, React, Micro-Frontends).
+
+- 🔭 **Current Focus**: Architecting high-throughput threat intelligence matrices, real-time telemetry streaming pipelines, and AI assistant interfaces.
+- ⚡ **Engineering Principles**: Clean code, domain-driven design, sub-millisecond data pipelines, zero-downtime releases, and developer experience.
+- 💬 **Ask me about**: High-concurrency systems, TypeScript/Python internals, Event-Driven Architecture, Micro-Frontends, and Web Workers.
+- 🌐 **Interactive Portfolio**: Explore my live projects, case studies, and arcade puzzles at [vivek19f.github.io/portfolio](https://vivek19f.github.io/portfolio/).
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | **TypeScript**, **JavaScript (ESNext)**, **Python 3.12+**, SQL, Bash, HTML5, CSS3 / SCSS |
+| **Backend & Distributed Systems** | **Node.js**, **Express**, **NestJS**, **Python (FastAPI, Django, Celery)**, AsyncIO, WebSockets, Server-Sent Events (SSE), Event-Driven Architecture, RESTful APIs, GraphQL |
+| **Frontend & Architecture** | **React 19**, **Next.js**, **Webpack Module Federation (Micro-Frontends)**, State Machines, D3.js, Web Workers, Three.js, Redux Toolkit, Tailwind CSS |
+| **Data & Caching** | **PostgreSQL**, **Redis**, **DynamoDB**, **MongoDB**, Web Streams, JSON Schema / Zod |
+| **Cloud & DevOps** | **AWS** (ECS, Lambda, S3, CloudFront, SQS, SNS, CodePipeline), **Docker**, **CI/CD Pipelines**, GitHub Actions, Nginx |
+| **Testing & Reliability** | Jest, React Testing Library, PyTest, Cypress, SonarQube, Performance Profiling, Web Accessibility (WCAG), SEO |
+
+---
+
+### 🚀 Selected Architectural Achievements
+
+- **Adversary Threat Matrix & MITRE ATT&CK Analytics Engine**  
+  Architected a multi-dimensional threat analytics engine capable of rendering 500+ tactic nodes with real-time sub-16ms graph filtering using Web Workers and virtualized canvas/SVG rendering.
+
+- **Schema-Driven Telemetry Ingestion Pipeline**  
+  Engineered an extensible, schema-driven ingestion pipeline with automated attribute inference and Zod AST validation for 10k+ row telemetry data, cutting client onboarding from 3 hours to 45 seconds.
+
+- **Enterprise Micro-Frontend (MFE) Migration**  
+  Consolidated 15+ legacy distributed codebases into an extensible Module Federation architecture with shared design tokens, increasing deployment frequency from monthly to 4x weekly.
+
+- **Real-Time Generative AI Streaming Assistant**  
+  Built a sandboxed execution runtime streaming real-time LLM responses over Server-Sent Events (SSE) with backpressure buffering and isolated iframe code execution.
+
+---
+
+### 📈 GitHub Highlights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek19f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d10&title_color=ffca83&icon_color=ffca83&text_color=a1a1aa" alt="Vivek's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek19f&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d10&title_color=ffca83&text_color=a1a1aa" alt="Top Languages" height="165" />
+</div>
+
+---
+
+### 🤝 Connect & Collaborate
+
+- **Live Web Experience**: [vivek19f.github.io/portfolio](https://vivek19f.github.io/portfolio/)
+- **LinkedIn**: [linkedin.com/in/vivekjhooria](https://www.linkedin.com/in/vivekjhooria/)
+- **Email**: [v.jhooria@gmail.com](mailto:v.jhooria@gmail.com)
+- **Technical Writing**: [medium.com/@robotChat](https://medium.com/@robotChat)
